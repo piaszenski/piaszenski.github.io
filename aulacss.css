@@ -1,0 +1,23 @@
+body{
+    background-color: gold ;
+}
+
+h1 {
+ color:cornflowerblue;
+background-color:rgb(204, 255, 0);
+font-size: 40px ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    height: 100px;
+    width: 100px;
+    border: 6px outset green;
+    border border-radius: 15px;
+    /*border-bottom modifica so a borda de baixo
+    border right modifica a borada da direita
+    border left muda só a da esquerda
+     e border top muda so a de cima
+     border radius muda uma quina expecifica por ex: border radius 0  20px  5px  10px*/
+
+
+}
