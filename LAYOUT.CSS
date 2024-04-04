@@ -1,0 +1,47 @@
+
+body{
+
+background-color: black;
+height: 100vh;
+flex-direction: column;
+
+}
+
+
+
+
+header{
+background-color: aqua;
+height: 100px;
+}
+main{
+background-color: blue;
+display: flex;
+border: 5px white dashed;
+height:calc(100% - 200px)
+
+}
+section{
+background-color: brown;
+width: 60%;
+
+
+
+}
+
+aside{
+background-color: rgb(150, 75, 185);
+width: 40%;
+
+}
+footer{
+background-color: rgb(138, 17, 17);
+
+}
+section:hover{
+    background-image: url('https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1l4qES.img?w=612&h=585&m=6');
+
+}
+footer{
+   height: 100px;
+}
